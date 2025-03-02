@@ -6,4 +6,5 @@
     "explorer.confirmDelete": false,
     "terminal.integrated.fontSize:": 14,
     "explorer.compactFolders": false,
+    "files.autoSave": "afterDelay",
 }
