@@ -20,7 +20,11 @@ export function Ranking() {
             1030
           </span>
 
-          <Image src={medalGold} alt="" className="absolute top-0 right-8" />
+          <Image
+            src={medalGold}
+            alt=""
+            className="absolute top-0 right-8 size-25"
+          />
         </div>
 
         <div className="relative rounded-xl bg-gray-700 border border-gray-600 p-6 flex flex-col justify-center gap-3">
@@ -31,7 +35,11 @@ export function Ranking() {
             1030
           </span>
 
-          <Image src={medalSilver} alt="" className="absolute top-0 right-8" />
+          <Image
+            src={medalSilver}
+            alt=""
+            className="absolute top-0 right-8 size-25"
+          />
         </div>
 
         <div className="relative rounded-xl bg-gray-700 border border-gray-600 p-6 flex flex-col justify-center gap-3">
@@ -42,7 +50,11 @@ export function Ranking() {
             1030
           </span>
 
-          <Image src={medalCooper} alt="" className="absolute top-0 right-8" />
+          <Image
+            src={medalCooper}
+            alt=""
+            className="absolute top-0 right-8 size-25"
+          />
         </div>
       </div>
     </div>
